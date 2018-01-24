@@ -1,0 +1,102 @@
+# 2012-01-28
+#
+# I made the following changes by hand to the parsed Ovid Tristia xml doc.
+#
+# Almost all the changes are just fixing incorrect line breaks.
+# In one place some text was duplicated on the next line as well.
+
+328,329c328,329
+< 			<l n="82">te sequar</l>
+< 			<l n="83">et coniunx exulis exul ero. et mihi facta via est, et me capit ultima tellus :</l>
+---
+> 			<l n="82">te sequar et coniunx exulis exul ero.</l>
+> 			<l n="83">et mihi facta via est, et me capit ultima tellus :</l>
+347c347,348
+< 			<l n="101">vivat, et absentem, quoniam sic fata tulerunt, vivat ut  auxilio sublevet usque suo.</l>
+---
+> 			<l n="101">vivat, et absentem, quoniam sic fata tulerunt,</l>
+> 			<l n="102">vivat ut auxilio sublevet usque suo.</l>
+511,512c512,513
+< 			<l n="8">cara relegati,</l>
+< 			<l n="9">quae potes, ora vides, quae quotiens spectas, subeat tibi dicere forsan</l>
+---
+> 			<l n="8">cara relegati, quae potes, ora vides,</l>
+> 			<l n="9">quae quotiens spectas, subeat tibi dicere forsan</l>
+582,584c583,585
+< 			<l n="37">non ego te genitum placida reor</l>
+< 			<l n="38">urbe Quirini, urbe meo quae iam non adeunda pede est,  haec habet ora sinistri,</l>
+< 			<l n="39">sed scopulis, Ponti quos haec habet</l>
+---
+> 			<l n="37">non ego te genitum placida reor urbe Quirini,</l>
+> 			<l n="38">urbe meo quae iam non adeunda pede est,</l>
+> 			<l n="39">sed scopulis, Ponti quos haec habet ora sinistri,</l>
+662c663,664
+< 			<l n="66">qua potes, excusa, nec amici desere causam: qua bene coepisti, sic bene semper eas.</l>
+---
+> 			<l n="65">qua potes, excusa, nec amici desere causam:</l> 
+> 			<l n="66">qua bene coepisti, sic bene semper eas.</l>
+699,700c701,702
+< 			<l n="35">Thyniacosque sinus, et ab his per Apollinis urbem arta apta vel</l>
+< 			<l n="36">alta vel vecta: arta ς sub Anchiali moenia tendat iter.</l>
+---
+> 			<l n="35">Thyniacosque sinus, et ab his per Apollinis urbem</l>
+> 			<l n="36">sub Anchiali moenia tendat iter.</l>
+1152,1153c1154,1155
+< 			<l n="388">concitus a laeso</l>
+< 			<l n="389">fecit amore dolor, fecit amor subitas volucres cum paelice regem, </l>
+---
+> 			<l n="388">concitus a laeso fecit amore dolor,</l>
+> 			<l n="389">fecit amor subitas volucres cum paelice regem, </l>
+1447,1448c1449,1450
+< 			<l n="17">ut via finita est</l>
+< 			<l n="18">et opus requievit eundi, et poenae tellus est mihi tacta meae,</l>
+---
+> 			<l n="17">ut via finita est et opus requievit eundi,</l>
+> 			<l n="18">et poenae tellus est mihi tacta meae,</l>
+1470,1471c1472,1473
+< 			<l n="8">terraque nescio quo</l>
+< 			<l n="9">non placet ipsa modo. non domus apta satis, non hic cibus utilis aegro,</l>
+---
+> 			<l n="8">terraque nescio quo non placet ipsa modo.</l>
+> 			<l n="9">non domus apta satis, non hic cibus utilis aegro,</l>
+1968,1969c1970,1971
+< 			<l n="20">solvat et</l>
+< 			<l n="21">in mores ora diserta meos. in causa facili cuivis licet esse diserto,</l>
+---
+> 			<l n="20">solvat et in mores ora diserta meos.</l>
+> 			<l n="21">in causa facili cuivis licet esse diserto,</l>
+2049,2050c2051,2052
+< 			<l n="25">o quater, o quotiens </l>
+< 			<l n="26">non est numerare, beatum, non interdicta cui licet urbe frui!</l>
+---
+> 			<l n="25">o quater, o quotiens non est numerare, beatum,</l>
+> 			<l n="26">non interdicta cui licet urbe frui!</l>
+2973,2974c2975,2976
+< 			<l n="25">silva feras</l>
+< 			<l n="26">quot alit, quot piscibus unda natatur, quot tenerum pennis aera pulsat avis,</l>
+---
+> 			<l n="25">silva feras quot alit, quot piscibus unda natatur,</l>
+> 			<l n="26">quot tenerum pennis aera pulsat avis,</l>
+2988,2989c2990,2991
+< 			<l n="40">subtrahis effracto tu</l>
+< 			<l n="41">quoque colla iugo? quo ferar? unde petam lassis solacia rebus?</l>
+---
+> 			<l n="40">subtrahis effracto tu quoque colla iugo?</l>
+> 			<l n="41">quo ferar? unde petam lassis solacia rebus?</l>
+3104,3105c3106,3107
+< 			<l n="16">more</l>
+< 			<l n="17">nec indomiti frena recusat equi. nec fore perpetuam sperat sibi numinis iram,</l>
+---
+> 			<l n="16">more nec indomiti frena recusat equi.</l>
+> 			<l n="17">nec fore perpetuam sperat sibi numinis iram,</l>
+3249,3250c3251,3252
+< 			<l n="43">his qui contentus non est,</l>
+< 			<l n="44">in litus harenas, in segetem spicas, in mare fundat aquas.</l>
+---
+> 			<l n="43">his qui contentus non est, in litus harenas,</l>
+> 			<l n="44">in segetem spicas, in mare fundat aquas.</l>
+3593c3595,3596
+< 			<l n="33">accipe quo semper finitur epistula verbo atque meis distent ut tua fata! - "vale."</l>
+---
+> 			<l n="33">accipe quo semper finitur epistula verbo</l>
+> 			<l n="34">atque meis distent ut tua fata! - "vale."</l>

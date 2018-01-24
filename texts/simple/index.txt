@@ -1,0 +1,27 @@
+file	author	class
+catullus.elegies	catullus	eleg
+catullus.hexameters	catullus	hex
+horace.ars_poetica	horace	hex
+horace.epistles	horace	hex
+horace.satires	horace	hex
+juvenal.satires	juvenal	hex
+lucan.bellum_civile	lucan	hex
+lucretius.de_rerum_natura	lucretius	hex
+martial.elegies	martial	eleg
+ovid.amores	ovid	eleg
+ovid.ars_amatoria	ovid	eleg
+ovid.ex_ponto	ovid	eleg
+ovid.fasti	ovid	eleg
+ovid.heroides	ovid	eleg
+ovid.metamorphoses	ovid	hex
+ovid.remedia_amoris	ovid	eleg
+ovid.tristia	ovid	eleg
+propertius.elegies	propertius	eleg
+silius_italicus.punica	silius_italicus	hex
+statius.thebaid	statius	hex
+tibullus.elegies	tibullus	eleg
+valerius_flaccus.argonautica	valerius_flaccus	hex
+vergil.aeneid	vergil	hex
+vergil.eclogues	vergil	hex
+vergil.georgics	vergil	hex
+

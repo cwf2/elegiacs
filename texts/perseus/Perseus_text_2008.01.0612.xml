@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+    <teiHeader type="text" status="new">
+        <fileDesc>
+            <titleStmt>
+                <title>Epigrammata Ausonii de diversis rebus</title>
+                <author>Ausonius, Decimus Magnus</author>
+                <editor role="editor">Hugh G. Evelyn-White</editor>
+                <funder n="org:Mellon">The Mellon Foundation</funder>
+            </titleStmt>
+            <publicationStmt>
+		<publisher>Trustees of Tufts University</publisher>
+		<pubPlace>Medford, MA</pubPlace>
+		<authority>Perseus Project</authority>
+		<availability status="free">
+    <p>This text may be freely distributed, subject to the following
+    restrictions:</p>
+    <list>
+	<item>You credit Perseus, as follows, whenever you use the document:
+	    <quote>Text provided by Perseus Digital Library, with funding from The Mellon Foundation. Original version available for viewing and download at http://www.perseus.tufts.edu/hopper/.</quote>
+	</item>
+	<item>You leave this availability statement intact.</item>
+	<item>You use it for non-commercial purposes only.</item>
+	<item>You offer Perseus any modifications you make.</item>
+    </list>
+</availability>
+</publicationStmt>
+            <sourceDesc default="NO">
+                <biblStruct default="NO">
+                    <monogr>
+                        <title>Ausonius. Works.</title>
+                        <title>Ausonius, Vol 2</title>
+                        <author>Ausonius, Decimus Magnus</author>
+                        <editor role="editor">Hugh G. Evelyn-White</editor>
+                        <imprint>
+                            <publisher>William Heinemann Ltd.; Harvard University Press</publisher>
+                            <pubPlace>London; Cambridge, Massachusetts</pubPlace>
+                            <date>1921</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <p>Keyboarding</p></sourceDesc>
+        </fileDesc>
+                
+            <encodingDesc>
+                <refsDecl doctype="TEI.2">
+                    <state unit="section" delim="." />
+                </refsDecl>            
+            </encodingDesc>
+                    
+        
+        <profileDesc>
+            <langUsage default="NO">
+                <language id="la">Latin</language>
+                <language id="greek">Greek</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text><body>
+        
+<div type="section" n="1" org="uniform" sample="complete"><head> <foreign lang="greek">*PRODWPOPOU/A</foreign> IN CHARTAM</head><p>
+<lb rend="displayNum" n="1" />SI tineas cariemque pati te, charta, necesse est,
+<lb rend="displayNum" n="2" />incipe versiculis ante perire meis.
+<lb rend="displayNum" n="3" /><q direct="unspecified">malo, inquis, tineis.</q> sapis, aerumnose libelle,
+<lb rend="displayNum" n="4" />perfungi mavis quod leviore malo.
+<lb rend="displayNum" n="5" />ast ego damnosae nolo otia perdere Musae, 
+<lb rend="displayNum" n="6" />iacturam somni quae parit atque olei.
+<lb rend="displayNum" n="7" /><q direct="unspecified">utilius dormire fuit, quam perdere somnum
+<lb rend="displayNum" n="8" />atque oleum.</q> bene ais: causa sed ista mihi est:
+<lb rend="displayNum" n="9" />irascor Proculo, cuius facundia tanta est,
+<lb rend="displayNum" n="10" />quantus honos, scripsit plurima, quae cohibet. 
+<lb rend="displayNum" n="11" />hune studeo ulcisci; et prompta est ultio vati:
+<lb rend="displayNum" n="12" />qui sua non edit carmina, nostra legat,
+<lb rend="displayNum" n="13" />huius in arbitrio est, seu te invenescere cedro,
+<lb rend="displayNum" n="14" />seu iubeat duris vermibus esse cibum,
+<lb rend="displayNum" n="15" />huic ego. quod nobis superest ignobilis oti, 
+<lb rend="displayNum" n="16" />deputo, sive legat, quae dabo, sive tegat.
+<pb id="v.1.p.156" />
+</p></div>
+
+<div type="section" n="2" org="uniform" sample="complete"><head> EXIIOIITATIO AD MODESTIAM</head><p>
+<lb rend="displayNum" n="1" />FAMA est fictilibus cenasse Agathoclea regem
+<lb rend="displayNum" n="2" />atque abacum Samio saepe onerasse luto,
+<lb rend="displayNum" n="3" />fereula geminatis cum poneret horrida 1 vasis
+<lb rend="displayNum" n="4" />et miseeret opes pauperiemque simul,
+<lb rend="displayNum" n="5" />quaerenti causam respondit: <q direct="unspecified">Rex ego qui sum 
+<lb rend="displayNum" n="6" />Sicaniae, figulo sum genitore satus.</q>
+<lb rend="displayNum" n="7" />fortunam reverenter habe, quicumque repente
+<lb rend="displayNum" n="8" />dives ab exili progrediere loco.
+
+</p></div>
+
+<div type="section" n="3" org="uniform" sample="complete"><head>IN EUMPINAM 2 ADULTERAM</head><p>
+<lb rend="displayNum" n="1" />TOXICA zelotypo dedit uxor moecha marito,
+<lb rend="displayNum" n="2" />nec satis ad mortem credidit esse datum,
+<lb rend="displayNum" n="3" />miscuit argenti letalia pondera vivi,
+<lb rend="displayNum" n="4" />cogeret ut celerem vis geminata necem,
+<lb rend="displayNum" n="5" />dividat haec si quis, faciunt discreta venenum;
+<lb rend="displayNum" n="6" />antidotum sumet, qui sociata bibet,
+<lb rend="displayNum" n="7" />ergo inter sese dum noxia pocula certant,
+<lb rend="displayNum" n="8" />cessit letalis noxa salutiferae.
+<lb rend="displayNum" n="9" />protinus et vacuos alvi petiere recessus,
+<lb rend="displayNum" n="10" />lubrica deiectis qua via nota cibis, 
+<lb rend="displayNum" n="11" />quam pia cura deum! prodest crudelior uxor:
+<lb rend="displayNum" n="12" />et, cum fata volunt, bina venena iuvant.
+
+</p></div>
+
+<div type="section" n="4" org="uniform" sample="complete"><head>IN EUNOMUM MEDICUM</head><p>
+<lb rend="displayNum" n="1" />LANGUENTEM Gaium moriturum dixerat olim
+<lb rend="displayNum" n="2" />Eunomus. evasit fati ope, non medici.
+<pb id="v.1.p.158" />
+<lb rend="displayNum" n="3" />paulo post ipsum videt, aut vidisse putavit,
+<lb rend="displayNum" n="4" />pallentem et multa mortis in effigie.
+<lb rend="displayNum" n="5" /><q direct="unspecified">Quis tu?</q> <q direct="unspecified">Gaius,</q> ait. <q direct="unspecified">Vivisne?</q> hic abnuit. <q direct="unspecified">Et quid 
+<lb rend="displayNum" n="6" />nunc agis hic? " " Missu Ditis, ait, venio,
+<lb rend="displayNum" n="7" />ut, quia notitiam rerumque hominumque tenerem,
+<lb rend="displayNum" n="8" />accirem medicos.</q> Eunomus obriguit.
+<lb rend="displayNum" n="9" />tum Gaius: <q direct="unspecified">Metuas nihil, Eunome. dixi ego et omnes,
+<lb rend="displayNum" n="10" />nullum, qui saperet, dicere te medicum.</q>
+
+</p></div>
+
+<div type="section" n="5" org="uniform" sample="complete"><head>IN HOMINEM VOCIS ABSONAE</head><p>
+<lb rend="displayNum" n="1" />LATRATUS catulorum, hinnitus fingis equorum,
+<lb rend="displayNum" n="2" />caprigenumque pecus lanigerosque greges
+<lb rend="displayNum" n="3" />habitu adsimulas; asinos quoque rudere dicas,
+<lb rend="displayNum" n="4" />cum vis Arcadicum fingere, Marce, pecus,
+<lb rend="displayNum" n="5" />gallorum cantus et ovantes gutture corvos 
+<lb rend="displayNum" n="6" />et quidquid vocum belua et ales habet,
+<lb rend="displayNum" n="7" />omnia cum simules ita vere. ut ficta negentur.
+<lb rend="displayNum" n="8" />non potes humanae vocis habere sonum.
+
+</p></div>
+
+<div type="section" n="6" org="uniform" sample="complete"><head>DE AUXILIO GRAMMATICO</head><p>
+<lb rend="displayNum" n="1" />EMENDATA potest quaenam vox esse magistri,
+<lb rend="displayNum" n="2" />nomen qui proprium cum vitio loquitur?
+<lb rend="displayNum" n="3" />auxilium te nempe vocas, inseite magister?
+<lb rend="displayNum" n="4" />da rectum casum: iam solicismus eris.
+<pb id="v.1.p.160" />
+</p></div>
+
+<div type="section" n="7" org="uniform" sample="complete"><head>DE PHILOMUSO GRAMMATICO</head><p>
+<lb rend="displayNum" n="1" />EMPTIS quod libris tibi bibliotheca referta est,
+<lb rend="displayNum" n="2" />doctum et grammaticum te, Philomuse, putas?
+<lb rend="displayNum" n="3" />hoc genere et chordas et plectra et barbita condes:
+<lb rend="displayNum" n="4" />omnia mercatus eras citharoedus eris.
+
+</p></div>
+
+<div type="section" n="8" org="uniform" sample="complete"><head>DE RUFO RUETORE</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified">reminisco</q> Rufus dixit in versu suo:
+<lb rend="displayNum" n="2" />cor ergo versus, immo Rufus, non habet.
+
+</p></div>
+
+<div type="section" n="9" org="uniform" sample="complete"><head>IN STATUAM EIUSDEM RUETORIS</head><p>
+<lb rend="displayNum" n="1" />RUETORIS haec Rufi statua est: nil verius: ipse est,
+<lb rend="displayNum" n="2" />ipse, adeo linguam non habet et cerebrum.
+<lb rend="displayNum" n="3" />et riget et surda est et non videt: haec sibi constant;
+<lb rend="displayNum" n="4" />unum dissimile est: mollior ille fuit.
+
+</p></div>
+
+<div type="section" n="10" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified"> ORE pulero, et ore muto, scire vis quae sim ?</q> <q direct="unspecified"> Volo.</q>
+<lb rend="displayNum" n="2" /><q direct="unspecified">Imago Rufi rhetoris Pictavici.</q>
+<lb rend="displayNum" n="3" /><q direct="unspecified"> Diceret set ipse, vellem, rhetor hoc mi.</q> <q direct="unspecified">Non potest.</q>
+<lb rend="displayNum" n="4" /><q direct="unspecified"> Cur?</q> <q direct="unspecified">Ipse rhetor est imago imaginis.</q>
+
+</p></div>
+
+<div type="section" n="11" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified"> RHETORIS haec Rufi statua est?</q> <q direct="unspecified">Si saxea, Rufi.</q>
+<lb rend="displayNum" n="2" /><q direct="unspecified">Cur id ais?</q> <q direct="unspecified">Semper saxeus ipse fuit.</q>
+<pb id="v.1.p.162" />
+</p></div>
+
+<div type="section" n="12" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" />ELINGUEM quis te dicentis imagine pinxit?
+<lb rend="displayNum" n="2" />dic mihi, Rufe. taces? nil tibi tam simile est.
+
+</p></div>
+
+<div type="section" n="13" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified"> HAEC Rufi tabula est.</q> <q direct="unspecified">Nil verius. ipse nbi Rufus?</q>
+<lb rend="displayNum" n="2" /><q direct="unspecified">In eathedra.</q> <q direct="unspecified">Quid agit?</q> <q direct="unspecified">Hoc, quod et in tabula.</q>
+</p></div>
+
+<div type="section" n="14" org="uniform" sample="complete"><head>DE EO QUI THESAURUM REPPERIT CUM SE</head><p>
+<lb rend="displayNum" n="1" />LAQUEO VELLET SUSPENDERE <add>ex Graeco</add>
+<lb rend="displayNum" n="2" />QUI laqueum collo nectebat, repperit aurum
+<lb rend="displayNum" n="3" />thesaurique loco deposuit laqueum.
+<lb rend="displayNum" n="4" />at qui condiderat, postquam non repperit aurum,
+<lb rend="displayNum" n="5" />aptavit collo quem repetit laqueum.
+
+</p></div>
+
+<div type="section" n="15" org="uniform" sample="complete"><head>EX GRAECO</head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">A)RXH\ DE/ TOI H(/MIDU PANTO/S</foreign>
+<lb rend="displayNum" n="2" />INCIPE: dimidium facti est coepisse, superfit
+<lb rend="displayNum" n="3" />dimidium: rursum hoc incipe et efficies.
+
+</p></div>
+
+<div type="section" n="16" org="uniform" sample="complete"><head>EX GRAECO </head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">U( XA/RIS BRADU/POUS A)/XARIS XA/RIS</foreign>
+<lb rend="displayNum" n="2" />GRATIA, quae tarda est, ingrata est. gratia namque
+<lb rend="displayNum" n="3" />cum fieri properat, gratia grata magis.
+<pb id="v.1.p.164" />
+</p></div>
+
+<div type="section" n="17" org="uniform" sample="complete"><head>EX EODEM</head><p>
+<lb rend="displayNum" n="1" />SI bene quid facias, facias, cito. nam cito factum
+<lb rend="displayNum" n="2" />gratum erit. ingratum gratia tarda facit.
+
+</p></div>
+
+<div type="section" n="18" org="uniform" sample="complete"><head> DE EO QUI CAPANEUM SALTANS RUIT</head><p>
+<lb rend="displayNum" n="1" />DECEPTAE felix casus se miscuit arti:
+<lb rend="displayNum" n="2" />histrio, saltabat qui Capanea, ruit.
+
+</p></div>
+
+<div type="section" n="19" org="uniform" sample="complete"><head>IN DODRAI.EM</head><p>
+<lb rend="displayNum" n="1" />DODRA ex dodrante est. sic collige: ius, aqua, vinum,
+<lb rend="displayNum" n="2" />sal, oleum, panis, mel, piper, herba: novem.
+
+</p></div>
+
+<div type="section" n="20" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified">DODRA vocor.</q> <q direct="unspecified"> Quae causa?</q> <q direct="unspecified"> Novem species gero.</q> <q direct="unspecified">Quae sunt?</q> 
+<lb rend="displayNum" n="2" /><q direct="unspecified">Ius. aqua. mel, vinum, panis, piper, herba, oleum. sal.</q>
+
+</p></div>
+
+<div type="section" n="21" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">*DO/DRA POTO\N KAI\ A)RTQMO/S, E)/LW ME/LI, OI)=NON, E)/LAION</foreign>.
+<lb rend="displayNum" n="2" /><foreign lang="greek">A)/RTOU, A(/LAS. BOTA/NHN, CWMO/N. U(/DWR, PE/PERI</foreign>.
+
+</p></div>
+
+<div type="section" n="22" org="uniform" sample="complete"><head>AD MARCUM AMICUM DE DISCORDIA QUAM DARET CUM PUELLIS</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified"> HANC amo quae me odit. contra illam quae me amat, odi.
+<lb rend="displayNum" n="2" />compone inter nos, si potes, alma Venus!</q>
+<pb id="v.1.p.166" />
+<lb rend="displayNum" n="3" /><q direct="unspecified"> Perfacile id faciam: mores mutabo et amores;
+<lb rend="displayNum" n="4" />oderit haec, amet haec.</q> <q direct="unspecified">Rursus idem patiar.</q>
+<lb rend="displayNum" n="5" /><q direct="unspecified"> Vis ambas ut ames?</q> <q direct="unspecified">Si diligat utraque, vellem.</q> 
+<lb rend="displayNum" n="6" /><q direct="unspecified">Hoc tibi tu praesta, Marce: ut amens, ama.</q>
+
+</p></div>
+
+<div type="section" n="23" org="uniform" sample="complete"><head>DYSEROS</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified">SUASISTI, Venus, ecce, duas dyseros ut amarem.
+<lb rend="displayNum" n="2" />odit utraque: aliud da modo consilium.</q>
+<lb rend="displayNum" n="3" /><q direct="unspecified"> Vince datis ambas.</q> <q direct="unspecified">Cupio: verum arta domi res.</q>
+<lb rend="displayNum" n="4" /><q direct="unspecified"> Pelliee promissis.</q> <q direct="unspecified">Nulla fides inopi.</q>
+<lb rend="displayNum" n="5" /><q direct="unspecified"> Antestare deos.</q> <q direct="unspecified">Nec fas mihi fallere divos.</q> 
+<lb rend="displayNum" n="6" /><q direct="unspecified"> Pervigila ante fores.</q> <q direct="unspecified">Nocte capi metuo.</q>
+<lb rend="displayNum" n="7" /><q direct="unspecified">Scribe elegos.</q> <q direct="unspecified">Nequeo, Musarum et Apollinis expers.</q>
+<lb rend="displayNum" n="8" /><q direct="unspecified"> Frange fores.</q> <q direct="unspecified">Poenas iudicii metuo.</q>
+<lb rend="displayNum" n="9" /><q direct="unspecified"> Stulte, ab amore mori pateris: non vis ob amorem?</q>
+<lb rend="displayNum" n="10" /><q direct="unspecified"> Malo miser dici, quam miser atque reus.</q> 
+<lb rend="displayNum" n="11" /><q direct="unspecified"> Suasi, quod potui: tu alios modo consule.</q> <q direct="unspecified">Dic quos?</q>
+<lb rend="displayNum" n="12" /><q direct="unspecified">Quod sibi suaserunt, Phaedra et Elissa dabunt,
+<lb rend="displayNum" n="13" />quod Canace Phyllisque et fastidita Phaoni.</q> 1
+<lb rend="displayNum" n="14" /><q direct="unspecified">Hoc das consilium? tale datur miseris.</q>
+
+</p></div>
+
+<div type="section" n="24" org="uniform" sample="complete"><head> DE EO QUI TESTAM HOMINIS INMISERICORDITER DISSIPARE VOLUIT</head><p>
+<lb rend="displayNum" n="1" />ANIECTA in triviis inhumati glabra iaccbat
+<lb rend="displayNum" n="2" />testa hominis, nudum iam cute calvitium.
+         <pb id="v.1.p.168" />
+<lb rend="displayNum" n="3" />fleverunt alii: fletu non motus Aehilas,
+<lb rend="displayNum" n="4" />insuper et silicis verbere dissicuit.
+<lb rend="displayNum" n="5" />eminus ergo icto rediit lapis ultor ab osse
+<lb rend="displayNum" n="6" />auctorisque sui frontem oculosque petit,
+<lb rend="displayNum" n="7" />sic utinam certos manus impia dirigat ictus,
+<lb rend="displayNum" n="8" />auctorem ut feriant tela retorta suum.
+
+<lb rend="displayNum" n="9" />II
+</p></div>
+
+<div type="section" n="25" org="uniform" sample="complete"><head>Commendatio Codicis</head><p>
+<lb rend="displayNum" n="1" />EST quod inane legas, est et quod vespere; laetis
+<lb rend="displayNum" n="2" />seria miscuimus, tempore uti placeant,
+<lb rend="displayNum" n="3" />non unus vitae color est nec carminis unus
+<lb rend="displayNum" n="4" />lector; habet tempus pagina quaeque suum;
+<lb rend="displayNum" n="5" />hoc mitrata Venus, probat hoc galeata Minerva; 
+<lb rend="displayNum" n="6" />Stoicus has partes, has Epicurus amat;
+<lb rend="displayNum" n="7" />salva mihi veterum maneat dum regula morum,
+<lb rend="displayNum" n="8" />plaudat permissis sobria musa iocis.
+
+</p></div>
+
+<div type="section" n="26" org="uniform" sample="complete"><head><add>DE AUGUSTO 1</add></head><p>
+<lb rend="displayNum" n="1" />PHOEBE potens numeris, praeses Tritonia bellis,
+<lb rend="displayNum" n="2" />tu quoque ab aerio praepes Victoria lapsu,
+<lb rend="displayNum" n="3" />come serenatum duplici diademate frontem
+<lb rend="displayNum" n="4" />serta ferens, quae dona togae, quae praemia pugnae,
+<lb rend="displayNum" n="5" />bellandi fandique potens Augustus honoiem 
+<lb rend="displayNum" n="6" />bis meret, ut geminet titulos, qui proelia Musis
+<lb rend="displayNum" n="7" />temperat et Getieum moderatur Apolline Martem. 
+<pb id="v.1.p.170" />
+<lb rend="displayNum" n="8" />arma inter Chunosque truces furtoque nocentes
+<lb rend="displayNum" n="9" />Sauromatas, quantum cessat de tempore belli,
+<lb rend="displayNum" n="10" />indulget Clariis tantum inter castra Camenis.  
+<lb rend="displayNum" n="11" />vix posuit volucres stridentia tela sagittas:
+<lb rend="displayNum" n="12" />Musarum ad calamos fertur manus, otia nescit
+<lb rend="displayNum" n="13" />et commutata meditatur arundine carmen:
+<lb rend="displayNum" n="14" />sed carmen non molle modis; bella horrida Martis
+<lb rend="displayNum" n="15" />Odrysii Thraessaeque viraginis arma retractat. 
+<lb rend="displayNum" n="16" />exulta, Aeacide: celebrans vate superbo
+<lb rend="displayNum" n="17" />rursum Romanusque tibi contingit Homerus.
+
+</p></div>
+
+<div type="section" n="27" org="uniform" sample="complete"><head><add>DE FERA A CAESARE INTERFECTA 1</add> </head><p>
+<lb rend="displayNum" n="1" />Cedere quae lato nescit fera saucia ferro
+<lb rend="displayNum" n="2" />armatique urget tela cruenta viri,
+<lb rend="displayNum" n="3" />quam grandes parvo patitur sub vulnere mortes
+<lb rend="displayNum" n="4" />et solam leti vim probat esse manum!
+<lb rend="displayNum" n="5" />mirantur casusque novos subitasque ruinas: 
+<lb rend="displayNum" n="6" />nec contenta ictos letaliter ire per artus,
+<lb rend="displayNum" n="7" />coniungit mortes una sagitta duas.
+<lb rend="displayNum" n="8" />plurima communi pereunt si fulminis ictu,
+<lb rend="displayNum" n="9" />haec quoque de caelo vulnera missa putes.
+<lb rend="displayNum" n="10" />
+
+</p></div>
+
+<div type="section" n="28" org="uniform" sample="complete"><head>AD FONTEM DVNUVII IUSSU VALENTINIANI AUGUSTI</head><p>
+<lb rend="displayNum" n="1" />Illyricis regnator aquis, tibi, Nile, secundus
+<lb rend="displayNum" n="2" />Danuvius laetum pro fero fonte caput.
+<pb id="v.1.p.172" />
+<lb rend="displayNum" n="3" />salvere Augustus iubeo, natumque patremque,
+<lb rend="displayNum" n="4" />armiferis alvi quos ego Pannoniis.
+<lb rend="displayNum" n="5" />nuntius Euxiuo iam nunc volo currere ponto, 
+<lb rend="displayNum" n="6" />ut sciat hoc superum cura secunda Valens,
+<lb rend="displayNum" n="7" />caede, fuga, flammis stratos periisse Suebos
+<lb rend="displayNum" n="8" />nec Rhenum Gallis limitis esse loco.
+<lb rend="displayNum" n="9" />quod si lege maris refluus mihi curreret amnis.
+<lb rend="displayNum" n="10" />huc possem victos inde referre Gothos. 
+
+</p></div>
+
+<div type="section" n="29" org="uniform" sample="complete"><head>VALENTINIANO IUNIOUI IN SIGNUM MARMOUEUM</head><p>
+<lb rend="displayNum" n="1" />NUNC te marmoreum pro sumptu fecimus: at cum
+<lb rend="displayNum" n="2" />Augustus frater remeaverit, aureus esto.
+
+</p></div>
+
+<div type="section" n="30" org="uniform" sample="complete"><head>PICTURAE SUBDITI UNI LEO UNA SAGITTA</head><p>
+<lb rend="displayNum" n="1" />GRATIANO OCCISIS EST
+<lb rend="displayNum" n="2" />Quod leo tam tenui patitur sub harundine letum,
+<lb rend="displayNum" n="3" />non vires ferri, sed ferientis agunt.
+
+</p></div>
+
+<div type="section" n="31" org="uniform" sample="complete"><head> AN FONTEM DANUVII .IUSSU VALENIINIANI</head><p>
+<lb rend="displayNum" n="1" />AUGUSTI
+<lb rend="displayNum" n="2" />DANUNIUS penitis caput occultatus in oris
+<lb rend="displayNum" n="3" />totus sub vestra iam dicione fluo:
+<lb rend="displayNum" n="4" />qua gelidum fontem mediis effundo Suebis,
+<lb rend="displayNum" n="5" />imperiis gravidas qua seco Pannonias,
+<pb id="v.1.p.174" />
+<lb rend="displayNum" n="6" />et qua dives aquis Scythico solvo ostia ponto, 5
+<lb rend="displayNum" n="7" />omnia sub vestrum flumina mitto iugum.
+<lb rend="displayNum" n="8" />Augusto dabitur sed proxima palma Valenti:
+<lb rend="displayNum" n="9" />inveniet fontes hic quoque, Nile, tuos.
+
+</p></div>
+
+<div type="section" n="32" org="uniform" sample="complete"><head> IN ECHO PICTAM</head><p>
+<lb rend="displayNum" n="1" />Vane, quid adfectus faciem mihi ponere, pictor,
+<lb rend="displayNum" n="2" />ignotamque oculis sollicitare deam?
+<lb rend="displayNum" n="3" />Aeris et Linguae sum filia, mater inanis
+<lb rend="displayNum" n="4" />indicii, vocem quae sine mente gero.
+<lb rend="displayNum" n="5" />extremos pereunte modos a fine reducens, 
+<lb rend="displayNum" n="6" />ludificata sequor verba aliena meis.
+<lb rend="displayNum" n="7" />auribus in vestris habito penetrabilis Echo:
+<lb rend="displayNum" n="8" />et, si vis similem pingere, pinge sonum.
+
+</p></div>
+
+<div type="section" n="33" org="uniform" sample="complete"><head> IN SIMULACRUM OCCASIONES ET PAENITENTIAE</head><p>
+<lb rend="displayNum" n="1" />Cuius opus? Phidiae: qui signum Pallados, eius
+<lb rend="displayNum" n="2" />quique Iovem fecit; tertia palma ego sum. sum
+<lb rend="displayNum" n="3" />dea quae rara et paucis occasio nota.
+<lb rend="displayNum" n="4" />quid rotulae insistis? stare loco nequeo,
+<lb rend="displayNum" n="5" />quid talaria habes? volucris sum. Mercurius quae 
+<lb rend="displayNum" n="6" />fortunare solet, trado ego, cum volui,
+<lb rend="displayNum" n="7" />crine tegis faciem, cognosci nolo. sed heus tu
+<lb rend="displayNum" n="8" />occipiti calvo es? ne tenear fugiens,
+<lb rend="displayNum" n="9" />quae tibi iuncta comes? dicat tibi. dic rogo, quae sis.
+<lb rend="displayNum" n="10" />sum dea, cui nomen nec Cicero ipse dedit. 
+         <pb id="v.1.p.176" />
+<lb rend="displayNum" n="11" />sum dea, quae factique et non facti exigo poenas,
+<lb rend="displayNum" n="12" />nempe ut paeniteat, sic METANOEA vocor.
+<lb rend="displayNum" n="13" />tu modo dic, quid agat tecum, quandoque volavi,
+<lb rend="displayNum" n="14" />haec manet; hanc retinent, quos ego praeterii.
+<lb rend="displayNum" n="15" />tu quoque dum rogitas, dum percontando moraris, 15
+<lb rend="displayNum" n="16" />elapsam dices me tibi de manibus.
+
+</p></div>
+
+<div type="section" n="34" org="uniform" sample="complete"><head>AD GALEAM PUELLAM IAM SENESCENTEM</head><p>
+<lb rend="displayNum" n="1" />DICEBAM tibi: <q direct="unspecified">Galla, senescimus; effugit aetas,
+<lb rend="displayNum" n="2" />utere rene tuo: casta puella anus est.</q>
+<lb rend="displayNum" n="3" />sprevisti. obrepsit non intellecta senectus
+<lb rend="displayNum" n="4" />nec revocare potes, qui periere, dies.
+<lb rend="displayNum" n="5" />nunc piget et querens, quod non aut ista voluntas 
+<lb rend="displayNum" n="6" />tunc fuit, aut non est nunc ea forma tibi.
+<lb rend="displayNum" n="7" />da tamen amplexus oblitaque gaudia iunge
+<lb rend="displayNum" n="8" />da: fruar, et si non quod volo, quod volui.
+
+</p></div>
+
+<div type="section" n="35" org="uniform" sample="complete"><head>DE LEPORE CAPTO A CANE MARINO</head><p>
+<lb rend="displayNum" n="1" />TRINACUM quondam currentem in litoris ora
+<lb rend="displayNum" n="2" />ante canes leporem caeruleus rapuit,
+<lb rend="displayNum" n="3" />at lepus: <q direct="unspecified"> In me omnis terrae pelagique rapina est,
+<lb rend="displayNum" n="4" />forsitan et caeli; si canis astra tenet.</q>
+<pb id="v.1.p.178" />
+</p></div>
+
+<div type="section" n="36" org="uniform" sample="complete"><head>DE PENGAMO SCRIPTORE FUGITINOQUI</head><p>
+<lb rend="displayNum" n="1" />CAPTUS FUERNT
+<lb rend="displayNum" n="2" />TAM segnis scriptor, quam lentus, Pergame, cursor,
+<lb rend="displayNum" n="3" />fugisti et primo captus es in stadio.
+<lb rend="displayNum" n="4" />ergo notas scripto tolerasti, Pergame, vultu
+<lb rend="displayNum" n="5" />et quas neglexit dextera, frons patitur.
+
+</p></div>
+
+<div type="section" n="37" org="uniform" sample="complete"><head>&lt;IN EUNDEM PERGAMUM 1&gt;</head><p>
+<lb rend="displayNum" n="1" />PERGAME, non recte punitus fronte subisti
+<lb rend="displayNum" n="2" />supplicium, lentae quod meruere manus.
+<lb rend="displayNum" n="3" />at tu, qui dominus, peccantia membra coherce:
+<lb rend="displayNum" n="4" />iniustum falsos excruciare reos.
+<lb rend="displayNum" n="5" />aut inscribe istam, quae non vult scribere, dextram,
+<lb rend="displayNum" n="6" />aut profugos ferri pondere nocte pedes.
+
+</p></div>
+
+<div type="section" n="38" org="uniform" sample="complete"><head>DE MYRONE QUI LAIDIS NOCTEM ROGAVERAT</head><p>
+<lb rend="displayNum" n="1" />CANUS rogabat Laidis noctem Myron:
+<lb rend="displayNum" n="2" />tulit repulsam protinus
+<lb rend="displayNum" n="3" />causamque sensit et caput fuligine
+<lb rend="displayNum" n="4" />fucavit atra candidum,
+<lb rend="displayNum" n="5" />idemque vultu, crine non idem Myron 
+<lb rend="displayNum" n="6" />orabat oratum prius,
+<lb rend="displayNum" n="7" />sed illa formam cum capillo comparatis
+<lb rend="displayNum" n="8" />similemque, non ipsum, rata
+<lb rend="displayNum" n="9" />(fortasse et ipsum, sed volens ludo frui)
+<lb rend="displayNum" n="10" />sic est adorta callidum: 
+<lb rend="displayNum" n="11" /><q direct="unspecified">Inepte, quid me, quod recusari, rogas?
+<lb rend="displayNum" n="12" />patri negavi iam tuo.</q>
+<pb id="v.1.p.180" />
+</p></div>
+
+<div type="section" n="39" org="uniform" sample="complete"><head>DE OPINIONE QUAM DE H.I.O HABEBNT</head><p>
+<lb rend="displayNum" n="1" />EIUS UXOR
+<lb rend="displayNum" n="2" />LAIDAS et Glyceras, lascivae nomina famae.
+<lb rend="displayNum" n="3" />coniunx in nostro carmine eum legeret,
+<lb rend="displayNum" n="4" />ludere me dixit falsoque in amore iocari.
+<lb rend="displayNum" n="5" />tanta illi nostra est de probitate fides.
+
+</p></div>
+
+<div type="section" n="40" org="uniform" sample="complete"><head>AD UXOREM</head><p>
+<lb rend="displayNum" n="1" />UXOR, vivamus quod viximus, et teneamus
+<lb rend="displayNum" n="2" />nomina, quae primo sumpsimus in thalamo:
+<lb rend="displayNum" n="3" />nec ferat ulla dies, ut commutemur in aevo;
+<lb rend="displayNum" n="4" />quin tibi sim iuvenis tuque puella mihi.
+<lb rend="displayNum" n="5" />Nestore sim quamvis provectior aemulaque annis 
+<lb rend="displayNum" n="6" />vineas Cumauam tu quoque Deiphoben;
+<lb rend="displayNum" n="7" />nos ignoremus, quid sit matura senectus.
+<lb rend="displayNum" n="8" />scire aevi meritum, non numerare decet.
+
+</p></div>
+
+<div type="section" n="41" org="uniform" sample="complete"><head> IN MEROEN ANUM FBRIOSAM</head><p>
+<lb rend="displayNum" n="1" />QUI primus, MEROE, nomen tibi condidit, ille
+<lb rend="displayNum" n="2" />Thesidae nomen condidit Hippolyto,
+<lb rend="displayNum" n="3" />nam divinare est, nomen componere, quod sit
+<lb rend="displayNum" n="4" />fortunae et morum vel necis indicium.
+<lb rend="displayNum" n="5" />Protesilae, tibi nomen sic fata dederunt, 
+<lb rend="displayNum" n="6" />victima quod Troiae prima futurus eras.
+<lb rend="displayNum" n="7" />ldmona quod vatem, medicum quod Iapyga dicunt,
+<lb rend="displayNum" n="8" />discendas artes nomina praeveniunt.
+<lb rend="displayNum" n="9" />et tu sic Meroe, non quod sis atra colore,
+<lb rend="displayNum" n="10" />ut quae Niliaea nascitur in Meroe; 
+<pb id="v.1.p.182" />
+<lb rend="displayNum" n="11" />infusum sed quod vinum non diluis undis,
+<lb rend="displayNum" n="12" />potare imnixtum sueta merumque merum.
+
+</p></div>
+
+<div type="section" n="42" org="uniform" sample="complete"><head>EX GRANECO TUA DUCTUM DE STATUA NEMESIS</head><p>
+<lb rend="displayNum" n="1" />ME lapidem quondam Persae advexere, tropaeum
+<lb rend="displayNum" n="2" />ut fierem bello: nunc ego sum Nemesis.
+<lb rend="displayNum" n="3" />ac sicut Graecis victoribus adsto tropaeum,
+<lb rend="displayNum" n="4" />punio sic Persas vaniloquos Nemesis.
+
+</p></div>
+
+<div type="section" n="43" org="uniform" sample="complete"><head>DE THRASYBULO LACEDAEMONIO QUI FORT1SSIME DIMICANS OCCUBUIT</head><p>
+<lb rend="displayNum" n="1" />EXCIPS adverso quod pectore vulnera septem,
+<lb rend="displayNum" n="2" />arma super velleris quod, Thrasybule, tua,
+<lb rend="displayNum" n="3" />non dolor hic patris est, Pitanae sed gloria maior.
+<lb rend="displayNum" n="4" />rarum, tam pulchro funere posse frui.
+<lb rend="displayNum" n="5" />quem postquam maesto socii posuere feretro, 
+<lb rend="displayNum" n="6" />talia magnanimus edidit orsa pater:
+<lb rend="displayNum" n="7" /><q direct="unspecified">Flete alios, natus lacrimis non indiget ullis.
+<lb rend="displayNum" n="8" />et meus, et talis, et Lacedaemonio.</q>
+
+</p></div>
+
+<div type="section" n="44" org="uniform" sample="complete"><head>EX GRAECO TRADUCTUM DE MATRE</head><p>
+<lb rend="displayNum" n="1" />MAGNANIMA
+<lb rend="displayNum" n="2" />MATER Lacaena clipeo obarmans filium,
+<lb rend="displayNum" n="3" /><q direct="unspecified">Cum hoc,</q> inquit, <q direct="unspecified">aut in hoc redi.</q>
+<pb id="v.1.p.184" />
+</p></div>
+
+<div type="section" n="45" org="uniform" sample="complete"><head> IN DEGENEREM DIVITEM MOECHO I,EXITUM</head><p>
+<lb rend="displayNum" n="1" />QUIDAM superbus opibus et fastu tumens
+<lb rend="displayNum" n="2" />tantumque verbis nobilis
+<lb rend="displayNum" n="3" />spernit vigentis clara saecli nomina,
+<lb rend="displayNum" n="4" />antiqua captans stemmata,
+<lb rend="displayNum" n="5" />Martem Remumque et conditorem Romulum
+<lb rend="displayNum" n="6" />privos parentes nuneupans.
+<lb rend="displayNum" n="7" />hos ille Serum veste contexi iubet:
+<lb rend="displayNum" n="8" />hos caelat argento gravi,
+<lb rend="displayNum" n="9" />ceris inurens ianuarum limina
+<lb rend="displayNum" n="10" />et atriorum pegmata. 
+<lb rend="displayNum" n="11" />credo, quod illi nec pater certus fuit
+<lb rend="displayNum" n="12" />et mater est vere lupa.
+
+</p></div>
+
+<div type="section" n="46" org="uniform" sample="complete"><head>ANTISTHENIS CYNIVII IMAGINI SUBDITI</head><p>
+<lb rend="displayNum" n="1" />INVENTOR primus Cynices ego. <q direct="unspecified">Quae ratio istaec
+<lb rend="displayNum" n="2" />Alcides multo dicitur esse prior.</q>
+<lb rend="displayNum" n="3" />Alcida quondam fueram doctore secundus:
+<lb rend="displayNum" n="4" />nunc ego sum Cynices primus, et ille deus.
+
+</p></div>
+
+<div type="section" n="47" org="uniform" sample="complete"><head><add>DE EODEM</add></head><p>
+<lb rend="displayNum" n="1" />DISCIPULUS melior nulli meliorve magister
+<lb rend="displayNum" n="2" /><foreign lang="greek">EI)S A)RETH\N SUNE/BH KAI\ *KUNIKH\N SOFI/HN</foreign>.
+<lb rend="displayNum" n="3" />dicere me novit verum, qui novit utrumque,
+<lb rend="displayNum" n="4" /><foreign lang="greek">KAI\ QEO\N *)ALKEI/DHN, KAI\ KU/NA *DIOGE/NHN</foreign>.
+<pb id="v.1.p.186" />
+</p></div>
+
+<div type="section" n="48" org="uniform" sample="complete"><head>MIXOBARBARON LIBERI PATRIS SIGNO MARMOREO IN VILLA NOSTRA OMNIUM DEORUM ARGUMENTA HABENTI</head><p>
+<lb rend="displayNum" n="1" />OGYGIDAE 1 me Bacchum vocant,
+<lb rend="displayNum" n="2" />Osirin Aegypti putant,
+<lb rend="displayNum" n="3" />Mysi Phanacen nominant,
+<lb rend="displayNum" n="4" />Dionyson Indi existimant,
+<lb rend="displayNum" n="5" />Romana sacra Liberum, 
+<lb rend="displayNum" n="6" />Arabica gens Adoneum,
+<lb rend="displayNum" n="7" />Lucaniacus Pantheum.
+
+</p></div>
+
+<div type="section" n="49" org="uniform" sample="complete"><head>LIBERO PATRI </head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">*AI)GUPII/WN ME\N *)/OSIRIS E)GW/, *MUSW=N DE\ *FANA/KHS</foreign>,
+<lb rend="displayNum" n="2" /><foreign lang="greek">*BA/KXOS E)NI\ ZWOI=SIN, E)NI\ FQIME/NOISIN *)ADWNEU/S</foreign>,
+<lb rend="displayNum" n="3" /><foreign lang="greek">PUROGENH/S, DI/KERWS, *TUTANOLE/THS, *DIO/NUSOS</foreign>.
+
+</p></div>
+
+<div type="section" n="50" org="uniform" sample="complete"><head>IN CORYDONEM MARMOREUM</head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">*AI)\C XI/MAROS PH/DH POIMH\N R(ABDOU=XOS E)LAI/H EI)=S LI/QOS E)K PA/NTWN LITO\S E)GW\ *KORUDW/N</foreign>.
+
+</p></div>
+
+<div type="section" n="51" org="uniform" sample="complete"><head>IN SIMULACRUM SAPPNUS</head><p>
+<lb rend="displayNum" n="1" />LESBIA Pieriis Sappho soror addita Musis,
+<lb rend="displayNum" n="2" /><foreign lang="greek">EI)M' E)NA/TH LURIKW=N, *)AONI/DWN DEKA/TH</foreign>.
+
+</p></div>
+
+<div type="section" n="52" org="uniform" sample="complete"><head> DEAE VENERI</head><p>
+<lb rend="displayNum" n="1" />ORTA salo, suscepta solo, patre edita Caelo,
+<lb rend="displayNum" n="2" />Aeneadum genetrix, hic habito alma Venus.
+<pb id="v.1.p.188" />
+</p></div>
+
+<div type="section" n="53" org="uniform" sample="complete"><head>NERSUS IN VESTE CONTENTI</head><p>
+<lb rend="displayNum" n="1" />LAUDET Achaemenias orientis gloria telas:
+<lb rend="displayNum" n="2" />molle aurum pallis, Graecia, texe tuis;
+<lb rend="displayNum" n="3" />non minus Ausoniam celebret dum fama Sabinam.
+<lb rend="displayNum" n="4" />parcentem magnis sumptibus, arte parem.
+
+</p></div>
+
+<div type="section" n="54" org="uniform" sample="complete"><head> ITEM</head><p>
+<lb rend="displayNum" n="1" />SIVE probas Tyrio textam subtemine vestem
+<lb rend="displayNum" n="2" />seu placet inscripti commoditas tituli.
+<lb rend="displayNum" n="3" />ipsius hoc dominae concinnat utrumque venustas,
+<lb rend="displayNum" n="4" />has geminas artes una Sabina colit.
+
+</p></div>
+
+<div type="section" n="55" org="uniform" sample="complete"><head>DE EADEM SABINA</head><p>
+<lb rend="displayNum" n="1" />LICIA qui texunt et carmina, carmina Musis,
+<lb rend="displayNum" n="2" />licia contribuunt, casta Minerva, tibi.
+<lb rend="displayNum" n="3" />ast ego rem sociam non dissociabo Sabina,
+<lb rend="displayNum" n="4" />versibus inscripsi quae mea texta meis.
+
+</p></div>
+
+<div type="section" n="56" org="uniform" sample="complete"><head>DE PUELLA QUAM AMABVT</head><p>
+<lb rend="displayNum" n="1" />HANG volo, quae non vult; illam, quae vult, ego nolo:
+<lb rend="displayNum" n="2" />vincere vult animos, non satiare Venus,
+<lb rend="displayNum" n="3" />oblatas sperno illecebras. detrecto negatas:
+<lb rend="displayNum" n="4" />nec satiare animum nec cruciare volo.
+<lb rend="displayNum" n="5" />nec bis cincta Diana placet nec nuda Cythere: 
+<lb rend="displayNum" n="6" />illa voluptatis nil habet, haec nimium,
+<lb rend="displayNum" n="7" />callida sed mediae Veneris milli venditet artem
+<lb rend="displayNum" n="8" />femina, quae iungat, quod volo nolo vocant.
+<pb id="v.1.p.190" />
+</p></div>
+
+<div type="section" n="57" org="uniform" sample="complete"><head> DE DUOBUS FRATRIBUS</head><p>
+<lb rend="displayNum" n="1" /><foreign lang="greek">*XRH=STOS, *)AKI/NDUNOS, AU)TOADELFEOI/, OI)KTRA\ DE\, TE/KNA</foreign>,
+<lb rend="displayNum" n="2" />moribus umbo malis nomina falsa gerunt:
+<lb rend="displayNum" n="3" /><foreign lang="greek">OU)D' OU(=TOS XRHDTO/S, OU)D' OU(=TOS A)KI/NDUNO/S E)DTIN</foreign>.
+<lb rend="displayNum" n="4" />una potest ambos littera corrigere.
+<lb rend="displayNum" n="5" /><foreign lang="greek">AI)/ KEN *XRH=DTO/S, E)/XH| PAR' A)DELFOU= *)AKINDU/NOU A)/LFA</foreign>,
+
+<lb rend="displayNum" n="6" /><foreign lang="greek">KI/NDUNOS</foreign> hic fiet, <foreign lang="greek">A)/XRHDTOS</foreign> erit.
+
+</p></div>
+
+<div type="section" n="58" org="uniform" sample="complete"><head>DE. CURESTO ET ACINDYNO QUIBUS FUERAT</head><p>
+<lb rend="displayNum" n="1" />MALE NOMEN IMPOSITUM
+<lb rend="displayNum" n="2" />GERMANI fratres sunt, Chrestos, Aeindvnos alter,
+<lb rend="displayNum" n="3" />falsum nomen utrique: sed ut verum sit utrique,
+<lb rend="displayNum" n="4" />alpha suum Chresto det Acindynos, ipse sine alpha
+<lb rend="displayNum" n="5" />permaneat: verum nomen uterque geret.
+
+</p></div>
+
+<div type="section" n="59" org="uniform" sample="complete"><head> QUODDAM QUASI AENIGMA DE TRIBUS INCESTIS</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified">TRIS uno in lecto: stuprum duo perpetiuntur.
+<lb rend="displayNum" n="2" />et duo committunt.</q> <q direct="unspecified">Quattuor esse reor.</q>
+<lb rend="displayNum" n="3" /><q direct="unspecified">Falleris: extremis da singula crimina et illum
+<lb rend="displayNum" n="4" />bis numera medium, qui facit et patitur.</q>
+
+</p></div>
+
+<div type="section" n="60" org="uniform" sample="complete"><head>DE HIS QUI DICUNT REMINISCO QUOD NON</head><p>
+<lb rend="displayNum" n="1" />EST LATINUM
+<lb rend="displayNum" n="2" />QUI REMINISCO putat se dicere posse latine
+<lb rend="displayNum" n="3" />hic ubi en scriptum est, faceret cor, si cor haberet.
+<pb id="v.1.p.192" />
+</p></div>
+
+<div type="section" n="61" org="uniform" sample="complete"><head>DE VERBIS RUFI</head><p>
+<lb rend="displayNum" n="1" />RITUS vocatus rhetor olim ad nuptias,
+<lb rend="displayNum" n="2" />celebri ut fit in convivio,
+<lb rend="displayNum" n="3" />grammaticae ut artis se peritum ostenderet,
+<lb rend="displayNum" n="4" />haec vota dixit nuptiis:
+<lb rend="displayNum" n="5" /><q direct="unspecified">Ei masculini et feminini gignite 
+<lb rend="displayNum" n="6" />generisque neutri filios.</q>
+
+</p></div>
+
+<div type="section" n="62" org="uniform" sample="complete"><head>DE GLAUCIA INMATURA MORTE PRAEVENTO</head><p>
+<lb rend="displayNum" n="1" />LAETA bis octono tibi iam sub consule pubes
+<lb rend="displayNum" n="2" />cingebat teneras, Glaucia adulto, genas,
+<lb rend="displayNum" n="3" />et iam desieras puer anne puella videri:
+<lb rend="displayNum" n="4" />cum properata dies abstulit omne decus,
+<lb rend="displayNum" n="5" />sed neque functorum socius miscebere vulgo 
+<lb rend="displayNum" n="6" />nec metues Stygios flebilis umbra lacus,
+<lb rend="displayNum" n="7" />verum aut Persephonae Cinyreius ibis Adonis,
+<lb rend="displayNum" n="8" />aut Iovis Elysii tu Catamitus eris.
+
+</p></div>
+
+<div type="section" n="63" org="uniform" sample="complete"><head>IN SIGNUM MARMOREUM NIOBES</head><p>
+<lb rend="displayNum" n="1" />VIVEBAM: sum facta silex, quae deinde polita
+<lb rend="displayNum" n="2" />Praxiteli manibus vivo iterum Niobe,
+<lb rend="displayNum" n="3" />reddidit artificis manus omnia, sed sine sensu:
+<lb rend="displayNum" n="4" />hunc ego, cum laesi numina, non habui.
+
+</p></div>
+
+<div type="section" n="64" org="uniform" sample="complete"><head> DE PALLADE VOLENTE CERTARE ARMIS CUM</head><p>
+<lb rend="displayNum" n="1" />VENERE
+<lb rend="displayNum" n="2" />ARMATAM vidit Venerem Lacedaemone Pallas.
+<lb rend="displayNum" n="3" /><q direct="unspecified">Nunc certemus,</q> ait, <q direct="unspecified">iudice vel Paride.</q>
+<lb rend="displayNum" n="4" />cui Venus: <q direct="unspecified"> Armatam tu me, temeraria, temnis,
+<lb rend="displayNum" n="5" />quae, quo te vici tempore, nuda fui?</q>
+<pb id="v.1.p.194" />
+</p></div>
+
+<div type="section" n="65" org="uniform" sample="complete"><head>DE LAIDE DICANTE VENERI SPECULUM SUUM</head><p>
+<lb rend="displayNum" n="1" />LAIS anus Veneri speculum dico: dignum habeat se
+<lb rend="displayNum" n="2" />aeterna aeternum forma ministerium,
+<lb rend="displayNum" n="3" />at mihi nullus in hoc usus, quia cernere talem,
+<lb rend="displayNum" n="4" />qualis sum, nolo. qualis eram, nequeo.
+
+</p></div>
+
+<div type="section" n="66" org="uniform" sample="complete"><head><add>DE CASTORE, POLLUTE ET HELENA</add></head><p>
+<lb rend="displayNum" n="1" />ISTOS tergemino nasci quos cernis ab ovo,
+<lb rend="displayNum" n="2" />patribus ambiguis et matribus adsere natos,
+<lb rend="displayNum" n="3" />hos genuit Nemesis, sed Leda puerpura fovit:
+<lb rend="displayNum" n="4" />Tyndareus pater his et Iuppiter: hic putat, hic scit.
+
+</p></div>
+
+<div type="section" n="67" org="uniform" sample="complete"><head>DE IMAGINE VENERIS SCULPTA A PRAXITELF</head><p>
+<lb rend="displayNum" n="1" />VERA Venus Gnidiam cum vidit Cyprida. dixit:
+<lb rend="displayNum" n="2" /><q direct="unspecified">Vidisti nudam me, puto, Praxitele.</q>
+<lb rend="displayNum" n="3" /><q direct="unspecified">Non vidi, nec fas: sed ferro opus omne polimus.
+<lb rend="displayNum" n="4" />ferrum Gradivi Martis in arbitrio,
+<lb rend="displayNum" n="5" />qualem igitur domino scierant placuisse Cytheren, 
+<lb rend="displayNum" n="6" />talem fecerunt ferrea caela deam.</q>
+
+</p></div>
+
+<div type="section" n="68" org="uniform" sample="complete"><head>IN BUCULAM AENEAM MYRONIS</head><p>
+<lb rend="displayNum" n="1" />BUCULA sum, caelo genitoris facta Myronis
+<lb rend="displayNum" n="2" />aerea: nec factam me puto, sed genitam.
+<lb rend="displayNum" n="3" />sic me taurus init, sic proxima bucula mugit.
+<lb rend="displayNum" n="4" />sic vitulus sitiens ubera nostra petit.
+<pb id="v.1.p.196" />
+<lb rend="displayNum" n="5" />miraris, quod fallo gregem? gregis ipse magister 5
+<lb rend="displayNum" n="6" />inter pascentes me numerare solet.
+</p></div>
+
+<div type="section" n="69" org="uniform" sample="complete"><head>DE EADEM BUCULA MYRONIS</head><p>
+<lb rend="displayNum" n="1" />UBERA quid pulsas frigentia matris aenae,
+<lb rend="displayNum" n="2" />o vitule, et sucum lactis ab aere petis?
+<lb rend="displayNum" n="3" />hunc quoque praestarem, si me pro parte parasset
+<lb rend="displayNum" n="4" />exteriore Myron, interiore deus.
+
+</p></div>
+
+<div type="section" n="70" org="uniform" sample="complete"><head>AN DAEDALUM DE EADEM BUCULA</head><p>
+<lb rend="displayNum" n="1" />DAEDALE, cur vana consumis in arte laborem?
+<lb rend="displayNum" n="2" />me potius clausa subice Pasiphae.
+<lb rend="displayNum" n="3" />illecebras verae si vis dare, Daedale, vaccae,
+<lb rend="displayNum" n="4" />viva tibi species vacca Myronis erit.
+
+</p></div>
+
+<div type="section" n="71" org="uniform" sample="complete"><head>DE EADEM MYRONIS BUCULA IAM HABENTE</head><p>
+<lb rend="displayNum" n="1" />SUI RITUM
+<lb rend="displayNum" n="2" />AEREA mugitum poterat dare vacca Myronis:
+<lb rend="displayNum" n="3" />sed timet artificis deterere ingenium,
+<lb rend="displayNum" n="4" />fingere nam similem vivae, quam vivere, plus est:
+<lb rend="displayNum" n="5" />nec sunt facta dei mira, sed artificis.
+
+</p></div>
+
+<div type="section" n="72" org="uniform" sample="complete"><head>DE EADEM BUCULA IAM HABENTE SPIRITUM</head><p>
+<lb rend="displayNum" n="1" />AEREA bos steteram; mactata est vacca Minervae;
+<lb rend="displayNum" n="2" />sed dea proflatam transtulit huc animam,
+<lb rend="displayNum" n="3" />et modo sum duplex: pars aerea, pars animata.
+<lb rend="displayNum" n="4" />haec manus artificis dicitur, illa deae.
+<pb id="v.1.p.198" />
+</p></div>
+
+<div type="section" n="73" org="uniform" sample="complete"><head>AN TAURUM DE EADEM BUCULA</head><p>
+<lb rend="displayNum" n="1" />Quid me, taure, paras specie deeeptus inire?
+<lb rend="displayNum" n="2" />non sum ego Minoae maehina Pasiphaae.
+
+</p></div>
+
+<div type="section" n="74" org="uniform" sample="complete"><head>DE EADEM MYRONIS BUCULA</head><p>
+<lb rend="displayNum" n="1" />NECDUM caduco sole, iam sub vespere,
+<lb rend="displayNum" n="2" />ageret iuveneas cum domum pastor suas.
+<lb rend="displayNum" n="3" />suam relinquens me monebat ut suam.
+
+</p></div>
+
+<div type="section" n="75" org="uniform" sample="complete"><head>DE EADEM MYRONIS BUCULA</head><p>
+<lb rend="displayNum" n="1" />UNAM iuvencam pastor forte amiserat,
+<lb rend="displayNum" n="2" />numerumque iussus reddere
+<lb rend="displayNum" n="3" />me defuisse conquerebatur, sequi
+<lb rend="displayNum" n="4" />quae noluissem ceteras.
+
+</p></div>
+
+<div type="section" n="76" org="uniform" sample="complete"><head><add>QUAE SEXUM MUTARINT</add></head><p>
+<lb rend="displayNum" n="1" />VALLEBANAE (nova res et vix credenda poctis.
+<lb rend="displayNum" n="2" />sed quae de vera promitur historia)
+<lb rend="displayNum" n="3" />femineam in speciem convertit masculus ales
+<lb rend="displayNum" n="4" />pavaque de pavo constitit ante oculos,
+<lb rend="displayNum" n="5" />cuncti admirantur monstrum: sed mollior agna 
+<lb rend="displayNum" n="6" /><add>talia virginea voce puella refert:1</add> 
+<lb rend="displayNum" n="7" /><q direct="unspecified">Quid stolidi ad speciem notae novitatis hebeti?
+<lb rend="displayNum" n="8" />an vos Nasonis carmina non legitis?
+<lb rend="displayNum" n="9" />Caenida convertit proles Saturnia Consus
+<lb rend="displayNum" n="10" />ambiguoque fuit corpore Tiresias.
+<lb rend="displayNum" n="11" />vidit semivirum fons Salmacis Hermaphroditum
+<lb rend="displayNum" n="12" />vidit nubentem Plinius Androgynum.
+<pb id="v.1.p.200" />
+<lb rend="displayNum" n="13" />nec satis antiquum, quod Campana in Benevento
+<lb rend="displayNum" n="14" />unus epheborum virgo repente fuit.
+<lb rend="displayNum" n="15" />nolo tamen veteris documenta arcessere famae. 
+<lb rend="displayNum" n="16" />ecce ego sum factus femina de puero.</q>
+
+</p></div>
+
+<div type="section" n="77" org="uniform" sample="complete"><head>AN PYTHAGORAM DE MARCO QUI DICEBATUR PULLARIA</head><p>
+<lb rend="displayNum" n="1" /><q direct="unspecified"> Pythagora Euphorbi, reparas qui semina rerum
+<lb rend="displayNum" n="2" />corporibusque novis das reduces animas,
+<lb rend="displayNum" n="3" />dic, quid erit Marcus iam fata novissima functus,
+<lb rend="displayNum" n="4" />si redeat vitam rursus in aeriam? </q>
+<lb rend="displayNum" n="5" /><q direct="unspecified"> Quis Marcus? " " Feles nuper pullaria dictus,
+<lb rend="displayNum" n="6" />corrupit totum qui puerile secus,
+<lb rend="displayNum" n="7" />perversae Veneris postico vulnere fossor,
+<lb rend="displayNum" n="8" />Lucili vatis subpilo pullipremo.</q>
+<lb rend="displayNum" n="9" /><q direct="unspecified"> Non taurus, non mulus erit, non hippocamelus,
+<lb rend="displayNum" n="10" />non caper aut aries, sed scarabaeus erit.</q>
+
+</p></div>
+
+<div type="section" n="78" org="uniform" sample="complete"><head>DE CASTORE FELLATORE QUI SUAM LINGEBAT UXOREM</head><p>
+<lb rend="displayNum" n="1" />LAMBERE cum vellet mediorum membra virorum
+<lb rend="displayNum" n="2" />Castor nec posset vulgus habere domi,
+<lb rend="displayNum" n="3" />repperit, ut nullum fellator perderet inguen:
+<lb rend="displayNum" n="4" />uxoris coepit lingere membra suae.
+
+</p></div>
+
+<div type="section" n="79" org="uniform" sample="complete"><head>SUBSCRIPTUM PICTURAE MULIERIS IMPUDICAE</head><p>
+<lb rend="displayNum" n="1" />PRAETER legitimi genialia foedera coetus
+<lb rend="displayNum" n="2" />repperit obscenas veneres vitiosa libido:
+<lb rend="displayNum" n="3" />Herculis heredi quam Lemnia suasit egestas,
+<pb id="v.1.p.202" />
+<lb rend="displayNum" n="4" />quam toga facundi scaenis agitavit Afrani
+<lb rend="displayNum" n="5" />et quam Nolanis capitalis luxus inussit. 
+<lb rend="displayNum" n="6" />Crispa tamen cunetas exercet corpore in uno:
+<lb rend="displayNum" n="7" />deglubit, fellat, molitur per utramque cavernam,
+<lb rend="displayNum" n="8" />ne quid inexpertum frustra moritura relinquat.
+
+</p></div>
+
+<div type="section" n="80" org="uniform" sample="complete"><head> DE ALCONE MEDICO QUI HARUSPICEM VANILOQUUM FECIT </head><p>
+<lb rend="displayNum" n="1" />LANGUENTI Marco dixit Diodorus haruspex
+<lb rend="displayNum" n="2" />ad vitam non plus sex superesse dies.
+<lb rend="displayNum" n="3" />sed medicus divis fatisque potentior Alcon
+<lb rend="displayNum" n="4" />falsum convicit illico haruspicium
+<lb rend="displayNum" n="5" />tractavitque manum victuri, ni tetigisset; 
+<lb rend="displayNum" n="6" />illico nam Marco sex periere dies.
+</p></div>
+
+<div type="section" n="81" org="uniform" sample="complete"><head>DE SIGNO IOVIS TACTO AD ALCONE MEDICO</head><p>
+<lb rend="displayNum" n="1" />ALCON hesterno signum Iovis attigit, ille
+<lb rend="displayNum" n="2" />quamvis marmoreus vim patitur medici.
+<lb rend="displayNum" n="3" />ecce hodie iussus transferri e sede vetusta
+<lb rend="displayNum" n="4" />effertur. quamvis sit deus atque lapis.
+
+</p></div>
+
+<div type="section" n="82" org="uniform" sample="complete"><head>IN EUNUM LIGUUUITOUEM</head><p>
+<lb rend="displayNum" n="1" />EUNE, quid adfectus vendentem Phyllida odores?
+<lb rend="displayNum" n="2" />dicetis hanc mediam lambere, non molere.
+<lb rend="displayNum" n="3" />perspice, ne mercis fallant te nomina, vel ne
+<lb rend="displayNum" n="4" />aere Seplasiae decipiare cave,
+<lb rend="displayNum" n="5" />dum <foreign lang="greek">KU/SQON KO/STON</foreign> que putas communis odoris 
+<lb rend="displayNum" n="6" />el nardium ac sardas esse sapore pari.
+<pb id="v.1.p.204" />
+</p></div>
+
+<div type="section" n="83" org="uniform" sample="complete"><head>&lt;IN EUNDEM EUNUM&gt;</head><p>
+<lb rend="displayNum" n="1" />Diversa infelix et lambit et olfacit Eunus:
+<lb rend="displayNum" n="2" />dissimilem olfactum naris et oris habet.
+
+</p></div>
+
+<div type="section" n="84" org="uniform" sample="complete"><head>AD EUNDEM EUNUM QUOD NON VELIT</head><p>
+<lb rend="displayNum" n="1" />BENE NEC MALE OLERE
+<lb rend="displayNum" n="2" />SALGAMA non hoc sunt, quod balsama: cedite odores,
+<lb rend="displayNum" n="3" />nec male olere mihi, nec bene olere placet.
+
+</p></div>
+
+<div type="section" n="85" org="uniform" sample="complete"><head>&lt;AD EUNDEM EUNUM&gt;</head><p>
+<lb rend="displayNum" n="1" />LAIS Eros et Itys, Chiron et Eros, Itys alter
+<lb rend="displayNum" n="2" />nomina si scribis, prima elementa adime.
+<lb rend="displayNum" n="3" />ut facias verbum, quod tu facis, Eune magister,
+<lb rend="displayNum" n="4" />dicere me Latium non decet opprobrium.
+
+</p></div>
+
+<div type="section" n="86" org="uniform" sample="complete"><head>AD EUNUM QUI UXORIS SUAE INGUINA</head><p>
+<lb rend="displayNum" n="1" />LAMBEBAT
+<lb rend="displayNum" n="2" />EUNE, quod uxoris gravidae putria inguina lambis,
+<lb rend="displayNum" n="3" />festinas glossas non natis tradere natis.
+
+</p></div>
+
+<div type="section" n="87" org="uniform" sample="complete"><head>AD EUNUM LIGURRITOREM PAEDAGOGUM</head><p>
+<lb rend="displayNum" n="1" />EUNUS Syriscus, inguinum ligurritor.
+<lb rend="displayNum" n="2" />opicus magister (sic eum docet Phyllis)
+<lb rend="displayNum" n="3" />muliebre membrum quadrangulum cernit:
+<lb rend="displayNum" n="4" />triquetro coactu .<foreign lang="greek">*D</foreign>. litteram ducit.
+<lb rend="displayNum" n="5" />de valle femorum altrinsecus pares rugas 
+<lb rend="displayNum" n="6" />mediumque, fissi rima qua patet, callem
+<lb rend="displayNum" n="7" />.<foreign lang="greek">*Y</foreign>. dicit esse: nam trifissilis forma est.
+<lb rend="displayNum" n="8" />cui ipse linguam cum dedit suam, .<foreign lang="greek">*L</foreign>. est:
+         <pb id="v.1.p.206" />
+<lb rend="displayNum" n="9" />veramque in illis esse .<foreign lang="greek">*F</foreign>. notam .sentit.
+<lb rend="displayNum" n="10" />quid, imperite, P. putas ibi scriptum, 
+<lb rend="displayNum" n="11" />ubi locari .I. convenit longum?
+<lb rend="displayNum" n="12" />miselle doctor, 8. tibi sit obsceno,
+<lb rend="displayNum" n="13" />tuumque nomen .<foreign lang="greek">*Q</foreign>. sectilis signet.
+
+</p></div>
+
+<div type="section" n="88" org="uniform" sample="complete"><head>AN CRISPAM QUAE A QUIBUSDAM DICEBATUR DEFORMIS</head><p>
+<lb rend="displayNum" n="1" />DEFORMEM quidam te dicunt, Crispa: ego istud
+<lb rend="displayNum" n="2" />nescio: mi pulchra es, iudice me satis est.
+<lb rend="displayNum" n="3" />quin etiam cupio, iunctus quia zelus amori est.
+<lb rend="displayNum" n="4" />ut videare aliis foeda, deeora mihi.
+
+</p></div>
+
+<div type="section" n="89" org="uniform" sample="complete"><head>QUALEM VELIT HABERE AMICAM</head><p>
+<lb rend="displayNum" n="1" />SIT milli talis amica velim,
+<lb rend="displayNum" n="2" />iurgia quae temere incipiat,
+<lb rend="displayNum" n="3" />nec student quasi casta loqui:
+<lb rend="displayNum" n="4" />pulcra procax petulante manu,
+<lb rend="displayNum" n="5" />verbera quae ferat et regerat 
+<lb rend="displayNum" n="6" />caesaque ad oscula confugiat.
+<lb rend="displayNum" n="7" />nam nisi moribus his fuerit,
+<lb rend="displayNum" n="8" />casta modesta pudenter agens,
+<lb rend="displayNum" n="9" />dicere abominor, uxor erit.
+
+</p></div>
+
+<div type="section" n="90" org="uniform" sample="complete"><head>Ex Graeco traductum ad Cupidinem</head><p>
+<lb rend="displayNum" n="1" />Hoc, quod amare vocant, solve aut misceto. Cupido:
+<lb rend="displayNum" n="2" />aut neutrum flammis ure vel ure duo.
+
+</p></div>
+
+<div type="section" n="91" org="uniform" sample="complete"><head>An Dionen de Amore suo</head><p>
+<lb rend="displayNum" n="1" />Aut restingue ignem, quo torreor, alma Dione,
+<lb rend="displayNum" n="2" />aut transire iube: vel fac utrimque parem.
+<pb id="v.1.p.208" />
+</p></div>
+
+<div type="section" n="92" org="uniform" sample="complete"><head> DE IMIS CONSULTO QUI UXOREM HABEBAT</head><p>
+<lb rend="displayNum" n="1" />ADULTERAM
+<lb rend="displayNum" n="2" />Iuris consulto, cui vivit adultera coniunx,
+<lb rend="displayNum" n="3" />paria a lex placuit, iulia displicuit,
+<lb rend="displayNum" n="4" />quaeritis, unde haec sit distantia? seemivir ipse
+<lb rend="displayNum" n="5" />scantin iam metuens non metuit titiam.
+
+</p></div>
+
+<div type="section" n="93" org="uniform" sample="complete"><head>AN QUENDAM QUI LEUIA SIBI INGUINA FACIEBAT</head><p>
+<lb rend="displayNum" n="1" />Inguina quod calido levas tibi dropace, causa est:
+<lb rend="displayNum" n="2" />irritant volsas levia membra lupas.
+<lb rend="displayNum" n="3" />sed quod et elixo plantaria podice vellis
+<lb rend="displayNum" n="4" />et teris incusas pumice Clazomenas,
+<lb rend="displayNum" n="5" />causa latet: bimarem nisi quod patientia morbum 
+<lb rend="displayNum" n="6" />adpetit et tergo femina, pube vir es.
+
+</p></div>
+
+<div type="section" n="94" org="uniform" sample="complete"><head>AD ZOILUM QUI UXOREM MOECHAM DUXERAT</head><p>
+<lb rend="displayNum" n="1" />SEMIVIR uxorem duxisti, Zoile, moecham:
+<lb rend="displayNum" n="2" />o quantus fiet quaestus utrimque domi,
+<lb rend="displayNum" n="3" />cum dabit uxori molitor tuus et tibi adulter,
+<lb rend="displayNum" n="4" />quantum deprensi damna pudoris ement!
+<lb rend="displayNum" n="5" />sed modo quae vobis lucrosa libido videtur,
+<lb rend="displayNum" n="6" />iacturam senio mox subeunte feret:
+<lb rend="displayNum" n="7" />incipient operas conducti vendere moechi,
+<lb rend="displayNum" n="8" />quos modo munificos lena iuventa tenet.
+
+</p></div>
+
+<div type="section" n="95" org="uniform" sample="complete"><head>PULCHRUM DEI RESPONSUM</head><p>
+<lb rend="displayNum" n="1" />Doctus Hylas caestu, Phegeus catus arte palaestrae,
+<lb rend="displayNum" n="2" />clarus Olympiacis et Lycus in stadiis,
+<pb id="v.1.p.210" />
+<lb rend="displayNum" n="3" />an possent omnes venturo vincere agone,
+<lb rend="displayNum" n="4" />Hammonem Libyae consuluere deum.
+<lb rend="displayNum" n="5" />sed deus, ut sapiens: <q direct="unspecified"> Dabitur victoria vobis
+<lb rend="displayNum" n="6" />indubitata equidem, si caveatis</q> ait,
+<lb rend="displayNum" n="7" /><q direct="unspecified">ne quis Hylam eaestu, ne quis certamine luctae
+<lb rend="displayNum" n="8" />Phegea, ne cursu te, Lyce, praetereat.</q>
+
+</p></div>
+
+<div type="section" n="96" org="uniform" sample="complete"><head>&lt;DE HERMIONES ZOXA&gt;</head><p>
+<lb rend="displayNum" n="1" />PUNICA turgentes redimibat zona papillas
+<lb rend="displayNum" n="2" />Hermiones: zonae textum elegeon erat:
+<lb rend="displayNum" n="3" /><q direct="unspecified"> Qui legis hunc titulum, Paphie tibi mandat, ames me
+<lb rend="displayNum" n="4" />exemploque tuo neminem amare vetes.</q>
+
+</p></div>
+
+<div type="section" n="97" org="uniform" sample="complete"><head>DE HYI.A QUEM NAIADES RAPUERUNT</head><p>
+<lb rend="displayNum" n="1" />ADSPICE, quam blandae neeis ambitione fruatur
+<lb rend="displayNum" n="2" />letifera experiens gaudia pulcher Hylas.
+<lb rend="displayNum" n="3" />oscula et infestos inter moriturus amores
+<lb rend="displayNum" n="4" />ancipites patitur Naidas Eumenidas.
+
+</p></div>
+
+<div type="section" n="98" org="uniform" sample="complete"><head>NYMPHIS QUAE HYLAM MERSERUNT</head><p>
+<lb rend="displayNum" n="1" />FURTTIS proeaees Naides amore saevo et irrito:
+<lb rend="displayNum" n="2" />ephebus iste flos erit.
+
+</p></div>
+
+<div type="section" n="99" org="uniform" sample="complete"><head>AD NARCISSUM QUI SUI IPSIUS AMORE CAPTUS ERAT</head><p>
+<lb rend="displayNum" n="1" />Si cuperes alium, posses. Narcisso, potiri,
+<lb rend="displayNum" n="2" />nunc tibi amoris adest copia, fructus abest.
+<pb id="v.1.p.212" />
+</p></div>
+
+<div type="section" n="100" org="uniform" sample="complete"><head>DE EODEM</head><p>
+<lb rend="displayNum" n="1" />QUID non ex huius forma pateretur amator,
+<lb rend="displayNum" n="2" />ipse suam qui sic deperit effigiem?
+
+</p></div>
+
+<div type="section" n="101" org="uniform" sample="complete"><head>DE ECHO DOLENTE PROPTER MORTEM NARCISSI</head><p>
+<lb rend="displayNum" n="1" />COMMORITUR, Narcisse, tibi resonabilis Echo,
+<lb rend="displayNum" n="2" />vocis ad extremos exanimata modos:
+<lb rend="displayNum" n="3" />et pereuntis adhuc gemitum resecuta querellis.
+<lb rend="displayNum" n="4" />ultima nunc etiam verba loquentis amat.
+
+</p></div>
+
+<div type="section" n="102" org="uniform" sample="complete"><head> DE HERMAPHRODITO ET EIUS NATURA</head><p>
+<lb rend="displayNum" n="1" />MERCURIO genitore satus, genetrice Cythere. 
+<lb rend="displayNum" n="2" />nominis ut mixti, sic corporis Hermaphroditus.
+<lb rend="displayNum" n="3" />concretus sexu, sed non perfectus, utroque:
+<lb rend="displayNum" n="4" />ambiguae Veneris, neutro potiendns amori.
+
+</p></div>
+
+<div type="section" n="103" org="uniform" sample="complete"><head>DE CONIUNCTIONE SAI.MACIS CUM</head><p>
+<lb rend="displayNum" n="1" />HERMAPHRODTTO
+<lb rend="displayNum" n="2" />SALMACIS optato concreta est nympha marito.
+<lb rend="displayNum" n="3" />felix virgo, sibi si scit inesse virum:
+<lb rend="displayNum" n="4" />et tu formosae, iuvenis, permixte puellae
+<lb rend="displayNum" n="5" />bis felix, unum si licet esse duos.
+
+</p></div>
+
+<div type="section" n="104" org="uniform" sample="complete"><head>AN APOLLINEM DE DAPHNE FTGIENTE</head><p>
+<lb rend="displayNum" n="1" />PONE arcum, Paean, celeresque reconde sagittas:
+<lb rend="displayNum" n="2" />non te virgo fugit, sed tua tela timet.
+<pb id="v.1.p.214" />
+</p></div>
+
+<div type="section" n="105" org="uniform" sample="complete"><head>DE DAPHNE TECTA COUTICE</head><p>
+<lb rend="displayNum" n="1" />INVIDE, cur properas. cortex, operire puellam:
+<lb rend="displayNum" n="2" />laurea debetur Phoebo, si virgo negatur.
+
+</p></div>
+
+<div type="section" n="106" org="uniform" sample="complete"><head>IN SCABIOSUM POI.YGITONEM</head><p>
+<lb rend="displayNum" n="1" />THERMARUM in solio si quis Polygitona vidit
+<lb rend="displayNum" n="2" />ulcera membrorum scabie putrefacta foventem,
+<lb rend="displayNum" n="3" />praeposuit cunctis spectacula talia ludis.
+<lb rend="displayNum" n="4" />Principio tremulis gannitibus aera pulsat
+<lb rend="displayNum" n="5" />verbaque lascivos meretricum imitantia coetus 
+<lb rend="displayNum" n="6" />vibrat et obscenae numeros pruriginis implet.
+<lb rend="displayNum" n="7" />brachia deinde rotat velut enthea daemone Maenas;
+<lb rend="displayNum" n="8" />pectus, crura, latus, ventrem, femora, inguina, suras,
+<lb rend="displayNum" n="9" />tergum, colla, umeros, luteae Symplegadis antrum.
+<lb rend="displayNum" n="10" />tam diversa locis vaga earnificina pererrat, 
+<lb rend="displayNum" n="11" />donec marcentem calidi fervore lavacri
+<lb rend="displayNum" n="12" />blandus letali solvat dulcedine morbus.
+<lb rend="displayNum" n="13" />desectos sic fama viros, ubi cassa libido
+<lb rend="displayNum" n="14" />femineos coetus et non sua bella lacessiti
+<lb rend="displayNum" n="15" />irrita vexato consumere gaudia lecto, 
+<lb rend="displayNum" n="16" />titillata brevi cum iam sub fine voluptas
+<lb rend="displayNum" n="17" />fervet et ingesto peragit ludibria morsu:
+<lb rend="displayNum" n="18" />torpida non aliter Polygiton membra rescivit.
+<lb rend="displayNum" n="19" />et, quia debentur suprema piacula vitae,
+<lb rend="displayNum" n="20" />ad Phlegethonteas sese iam praeparet undas. 
+
+</p></div>
+
+<div type="section" n="107" org="uniform" sample="complete"><head>DE QUODAM SILVIO PONO QUI EUNT BURRO</head><p>
+<lb rend="displayNum" n="1" />SILVIUS ille Bonus, qui carmina nostra Incessit,
+<lb rend="displayNum" n="2" />nostra magis meruit disticha, Brito bonus.
+<pb id="v.1.p.216" />
+</p></div>
+
+<div type="section" n="108" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" />SILVIUS hic Bonus est. <q direct="unspecified">Quis Sibilis?</q> Iste Britannus.
+<lb rend="displayNum" n="2" /><q direct="unspecified">Aut Brito hic non est Silvius, aut malus est.</q>
+
+</p></div>
+
+<div type="section" n="109" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" />SILVIUS esse Bonus fertur ferturque Britannus:
+<lb rend="displayNum" n="2" />quis credat civem degenerasse bonum?
+
+</p></div>
+
+<div type="section" n="110" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" />NEMO bonus Brito est. si simplex Silvius esse
+<lb rend="displayNum" n="2" />incipiat, simplex desinat esse bonus.
+
+</p></div>
+
+<div type="section" n="111" org="uniform" sample="complete"><head> ��� IDEM</head><p>
+<lb rend="displayNum" n="1" />SILVIUS hic Bonus est, sed Brito est Silvius idem:
+<lb rend="displayNum" n="2" />simplicior res est, credite, Brito malus.
+
+</p></div>
+
+<div type="section" n="112" org="uniform" sample="complete"><head>IDEM</head><p>
+<lb rend="displayNum" n="1" />SILVI, Brito Bonus: quamvis homo non bonus esse
+<lb rend="displayNum" n="2" />fertis nec &lt;se quit&gt; iungere Brito Bono.
+   <pb id="v.1.p.218" />
+</p></div>
+    </body>
+    </text>
+    </TEI.2>

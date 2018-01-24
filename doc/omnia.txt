@@ -1,0 +1,11 @@
+Explanation of column headers for 'tables/master'
+
+author - author; samples contain randomly selected lines from one or more works
+meter  - epent = pentameter line of elegiacs; ehex = hexameter line of couplets; emix = random selection from couplets; hex = stichic hexameters
+wc     - number of words in the sample
+wl     - number of characters in the sample (to get mean word length, divide by 'wc')
+c_*    - ngram counts for uni- and bi-grams. to get ngram probabilities divide the bigram by unigram of first char: e.g., 'c_re'/'c_r' 
+con    - total number of consonants in sample (counting 'qu', 'th', 'ph', 'ch' as single consonants)
+vow    - total number of vowels in the sample (counting 'ae', 'au', 'oe' as single vowels)
+fin    - total number of vowels (approximately = number of syllables) in all line-final words in sample; to get mean # syllables in line final words, divide by 20 (# lines / sample)
+date   - approximate date for the text in the sample

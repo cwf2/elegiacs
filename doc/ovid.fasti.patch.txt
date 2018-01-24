@@ -1,0 +1,29 @@
+# 2012-01-28
+#
+# Corrections to Ovid Fasti
+#
+# I made the following changes by hand after running the perl
+# parser script ovid.fasti.pl
+# 
+# The corrected versions all agree with Bömer's edition.
+
+223,224c223,224
+< 		<l n="220"> curque iuvent vestras</l>
+< 		<l n="221">aera vetusta manus? aera dabant olim, melius nunc omen in auro est,</l>
+---
+> 		<l n="220"> curque iuvent vestras aera vetusta manus? </l>
+> 		<l n="221">aera dabant olim, melius nunc omen in auro est,</l>
+3994c3994,3995
+< 		<l n="558">seu quis ab Eoo nos impius orbe lacesset, seu quis ab occiduo sole domandus erit.</l>
+---
+> 		<l n="557">seu quis ab Eoo nos impius orbe lacesset,</l>
+> 		<l n="558">seu quis ab occiduo sole domandus erit.</l>
+4059c4060,4061
+< 		<l n="625"> fama vetus tunc, cum Saturnia terra vocata est, talia fati dici dicta fuisse Iovis:</l>
+---
+> 		<l n="625"> fama vetus tunc, cum Saturnia terra vocata est,
+> 		<l n="626">talia fati dici dicta fuisse Iovis:</l>
+4097c4099
+< 		<l n="662">antra: leves cursum sustinuistis aquae. 15 G EID   -   NP 16. HF 17. AC 18. BC 19. CC</l>
+---
+> 		<l n="662">antra: leves cursum sustinuistis aquae.</l>

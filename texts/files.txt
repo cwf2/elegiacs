@@ -1,0 +1,151 @@
+<work title="anonymous.laudes_domini.tess">
+	<label class="h">
+		<match></match>
+	</label>
+</work>
+<work title="ausonius.cento_nuptialis.tess">
+	<del>
+		<match>132-134</match>
+	</del>
+	<label class="h">
+		<match></match>
+	</label>
+</work>
+<work file="ausonius.cupido_cruciatur.tess">
+	<label class="h">
+		<match></match>
+	</label>
+</work>
+<work file="ausonius.de_herediolo.tess">
+	<del>
+		<match>1.0</match>
+	</del>
+	<label class="e">
+		<match></match>
+	</label>
+</work>
+<work file="ausonius.eclogarum_liber.tess">
+	<del>
+		<match>1.0</match>
+		<match>17-19</match>
+		<match>22.1</match> <!-- this is a title, not a verse -->
+	</del>
+	<label class="h">
+		<match>2-8</match>
+		<match>11-16</match>
+		<match>20-25</match>
+	</label>
+	<label class="e">
+		<match>9</match>
+		<match>10</match>
+		<match>23</match>
+		<match>26</match>
+	</label>
+</work>
+<work file="ausonius.ephemeris_id_est_totius_diei_negotium.tess">
+	<del>
+		<match>1-2</match>
+		<match>4-5</match>
+		<match>6</match> <!-- something is wrong with the numbering here -->
+	</del>
+	<label class="h">
+		<match>3</match>
+		<match>8</match>
+	</label>
+</work>
+<work file="ausonius.epicedion_in_patrem.tess>
+	<del>
+		<match>4.0</match>
+	</del>
+	<label class="e">
+		<match></match>
+	</label>
+</work>
+<work file="ausonius.epigrammata_ausonii_de_diversis_rebus.tess">
+	<del>
+		<match>14.1</match> <!-- title -->
+		<match>15.1</match>
+		<match>16.1</match>
+		<match>24.9</match>
+		
+	</del>
+	<label class="e">
+		<match>1-25</match>
+		<match>28</match>
+		<match>30</match>
+	</label>
+	<label class="h">
+		<match>26-27</match>
+		<match>29</match>
+	</label>
+</work>
+* ausonius.epigrammata_ausonii_de_diversis_rebus.tess
+* ausonius.epistularum.tess
+* ausonius.epitaphia_heroum_qui_bello_troico_interfuerunt.tess
+h ausonius.griphus_ternarii_numeri.tess
+e ausonius.libri_de_fastis_conclusio.tess -2.11?
+e ausonius.ludus_septem_sapientum.tess
+h ausonius.mosella.tess
+h ausonius.oratio_consulis_ausonii_versibus_rhopalicis.tess
+h ausonius.ordo_urbium_nobilium.tess
+* ausonius.parentalia.tess
+e ausonius.praefatiunculae.tess
+h ausonius.precationes.tess
+h ausonius.technopaegnion.tess
+h ausonius.versus_paschales_pro_augusto_dicti.tess
+* catullus.carmina.tess
+* claudian.carmina_minora.tess
+h claudian.de_bello_gildonico.tess
+h claudian.de_bello_gothico.tess
+h claudian.de_consulatu_stilichonis.tess
+h claudian.de_raptu_proserpinae.tess -praef
+h claudian.epithalamium_de_nuptiis_honorii_augusti.tess -praef
+h claudian.in_consulatum_olybrii_et_probini.tess
+h claudian.in_eutropium.tess
+h claudian.in_rufinum.tess
+h claudian.panegyricus_de_quarto_consulatu_honorii_augusti.tess
+h claudian.panegyricus_de_sexto_consulatu_honorii_augusti.tess -praef
+h claudian.panegyricus_de_tertio_consulatu_honorii_augusti.tess -praef
+h claudian.panegyricus_dictus_manlio_theodoro_consuli.tess -praef
+h corippus.johannis.tess
+* ennodius.opera.tess
+h horace.ars_poetica.tess
+h horace.epistles.tess
+* horace.epodes.tess
+* horace.odes.tess
+h horace.satires.tess
+h italicus.ilias_latina.tess
+h juvenal.satires.tess
+h juvencus.historia_evangelica.tess
+h lucan.bellum_civile.tess
+h lucretius.de_rerum_natura.tess
+h manilius.astronomicon.tess
+* martial.epigrams.tess
+e ovid.amores.tess
+e ovid.ars_amatoria.tess
+e ovid.ex_ponto.tess
+e ovid.fasti.tess
+e ovid.heroides.tess
+e ovid.ibis.tess
+e ovid.medicamina_faciei_femineae.tess
+h ovid.metamorphoses.tess
+e ovid.remedia_amoris.tess
+e ovid.tristia.tess
+* paulus_diaconus.carmina.tess
+h persius.satires.tess
+e propertius.elegies.tess
+h prudentius.apotheosis.tess -praef
+* prudentius.contra_symmachum.tess
+h prudentius.dittochaeon.tess
+* prudentius.hamartigenia.tess
+* prudentius.psychomachia.tess
+e rutilius.de_reditu.tess
+h silius_italicus.punica.tess
+h statius.achilleid.tess
+* statius.silvae.tess
+h statius.thebaid.tess
+* tibullus.elegies.tess
+h valerius_flaccus.argonautica.tess
+h vergil.aeneid.tess
+h vergil.eclogues.tess
+h vergil.georgics.tess
