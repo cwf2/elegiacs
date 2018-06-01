@@ -2,31 +2,15 @@ use strict;
 use warnings;
 
 use File::Path qw(remove_tree make_path);
-use Storable qw(nstore retrieve);
+use File::Spec::Functions;
+use JSON;
 
-my $path_text = shift @ARGV || "texts/simple";
+my $path_text = shift @ARGV || catfile('texts', 'simple');
+my $path_data = catfile('data', '20l-full');
 
-#
-# create a data directory in the home folder
-# - if the data is created in the dropbox folder
-#   then you end up with a million files being
-#   backed up.
+unless (-d $path_data) {
 
-my $home = (getpwuid($<))[7];
-my $path_data = "$home/elegiacs/data/20l-full";
-
-unless (-d "$home/elegiacs") {
-	
-	print STDERR "okay to create data directory $home/elegiacs? [Y/n]\n";
-	
-	my $response = <>;
-	chomp $response;
-	
-	if ($response ne "" and lc($response) ne "y") {
-		
-		print STDERR "Quitting.\n";
-		exit;
-	}
+	print STDERR "creating data directory $path_data\n";	
 }
 
 my @file;
@@ -43,7 +27,7 @@ my $textlist = "elegies";
 
 if ( $textlist eq "elegies" ) {
 
-	@file = qw/catullus.elegies.xml tibullus.elegies.xml propertius.xml
+	@file = qw/catullus.elegies.xml tibullus.elegies.xml propertius.elegies.xml
 				ovid.amores.xml ovid.ars.xml ovid.remedia.xml ovid.heroides.xml 
 				ovid.fasti.xml ovid.tristia.xml ovid.ex_ponto.xml
 				martial.elegies.xml/;	
@@ -61,9 +45,9 @@ else {
 #
 
 remove_tree($path_data);
-make_path($path_data . "/pent" );
-make_path($path_data . "/hex"  );
-make_path($path_data . "/mixed");
+make_path(catfile($path_data, "pent"));
+make_path(catfile($path_data, "hex"));
+make_path(catfile($path_data, "mixed"));
 
 #
 # create samples
@@ -164,4 +148,12 @@ for (@file) {
 
 print STDERR ($i{"mixed"}*20) . " lines total\n";
 
-nstore \%index, $path_data . "/index.bin";
+#
+# write the index
+#
+
+my $json = JSON->new;
+$json = $json->pretty([1]);
+
+open (my $fh_index, ">", catfile($path_data, 'index.json'));
+print $fh_index $json->encode(\%index);

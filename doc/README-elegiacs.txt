@@ -72,6 +72,9 @@ Notes on elegiac texts.
 	share using Subversion rather than Dropbox, since then we could specify certain
 	directories shouldn't be backed up.
 	
+	[24.01.2018] Took project out of Dropbox and started a git repo. `data` is now
+	stored locally, and included in `.gitignore`.
+	
 3. Quantify the features we're interested in, and save the results to a table.
 	Right now I only have one script, it's called word-length.pl and it's in
 		scripts/measure

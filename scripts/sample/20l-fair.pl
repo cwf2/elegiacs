@@ -3,18 +3,10 @@ use warnings;
 
 use File::Path qw(remove_tree make_path);
 use File::Spec::Functions;
-use Storable qw(nstore retrieve);
+use JSON;
 
 my $path_text = shift @ARGV || "texts/simple";
-
-#
-# create a data directory in the home folder
-# - if the data is created in the dropbox folder
-#   then you end up with a million files being
-#   backed up.
-
-my $home = (getpwuid($<))[7];
-my $path_data = catfile($home, 'elegiacs', 'data', '20l-fair');
+my $path_data = catfile('data', '20l-fair');
 
 unless (-d $path_data) {
 
@@ -169,4 +161,9 @@ for my $author (keys %sample) {
 	}
 }
 
-nstore \%index, catfile($path_data, 'index.bin');
+
+my $json = JSON->new;
+$json = $json->pretty([1]);
+
+open (my $fh_index, ">", catfile($path_data, 'index.json'));
+print $fh_index $json->encode(\%index);

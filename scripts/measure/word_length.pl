@@ -8,20 +8,18 @@
 use strict;
 use warnings;
 
-use Storable;
-
-my $home = (getpwuid($<))[7];
-my $path_data = "$home/elegiacs/data";
+use File::Spec::Functions;
+use JSON;
 
 my $dataset = shift @ARGV || die "please specify dataset";
 
-$path_data .= "/$dataset";
+my $path_data = catfile('data', $dataset);
 
 #
 # load the index
 # 
 
-my %index = %{ retrieve($path_data . "/index.bin") };
+my %index = %{read_index_file(catfile($path_data, 'index.json'))};
 
 my %uniq_author;
 my %uniq_work;
@@ -111,3 +109,18 @@ for (sort keys %index) {
 }
 
 close FH;
+
+#
+# subroutines
+#
+
+sub read_index_file {
+	my $file = shift;
+	
+	open (my $fh, $file) or die "Can't read index $file: $!";
+	my @lines = (<$fh>);
+	close($fh);
+	
+	my $json = JSON->new;
+	return $json->decode(join(" ", @lines));
+}
